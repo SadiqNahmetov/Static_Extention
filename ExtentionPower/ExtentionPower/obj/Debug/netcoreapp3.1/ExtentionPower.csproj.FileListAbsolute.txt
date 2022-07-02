@@ -1,0 +1,14 @@
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\ExtentionPower\ExtentionPower\bin\Debug\netcoreapp3.1\ExtentionPower.exe
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\ExtentionPower\ExtentionPower\bin\Debug\netcoreapp3.1\ExtentionPower.deps.json
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\ExtentionPower\ExtentionPower\bin\Debug\netcoreapp3.1\ExtentionPower.runtimeconfig.json
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\ExtentionPower\ExtentionPower\bin\Debug\netcoreapp3.1\ExtentionPower.runtimeconfig.dev.json
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\ExtentionPower\ExtentionPower\bin\Debug\netcoreapp3.1\ExtentionPower.dll
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\ExtentionPower\ExtentionPower\bin\Debug\netcoreapp3.1\ExtentionPower.pdb
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\ExtentionPower\ExtentionPower\obj\Debug\netcoreapp3.1\ExtentionPower.csproj.AssemblyReference.cache
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\ExtentionPower\ExtentionPower\obj\Debug\netcoreapp3.1\ExtentionPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\ExtentionPower\ExtentionPower\obj\Debug\netcoreapp3.1\ExtentionPower.AssemblyInfoInputs.cache
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\ExtentionPower\ExtentionPower\obj\Debug\netcoreapp3.1\ExtentionPower.AssemblyInfo.cs
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\ExtentionPower\ExtentionPower\obj\Debug\netcoreapp3.1\ExtentionPower.csproj.CoreCompileInputs.cache
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\ExtentionPower\ExtentionPower\obj\Debug\netcoreapp3.1\ExtentionPower.dll
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\ExtentionPower\ExtentionPower\obj\Debug\netcoreapp3.1\ExtentionPower.pdb
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\ExtentionPower\ExtentionPower\obj\Debug\netcoreapp3.1\ExtentionPower.genruntimeconfig.cache
